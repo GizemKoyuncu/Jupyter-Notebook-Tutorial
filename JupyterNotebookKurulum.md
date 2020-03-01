@@ -2,7 +2,7 @@
 
 ## Merhaba,
 
->  <span class="emoji">🔉 </span> NOT: EĞER BİLGİSAYARINIZDA PYTHON 2.7 SÜRÜMÜNÜN ÜSTÜ VE PİP KURULU İSE SADECE  **pip install jupyterlab** KOMUTU İLE KURULUMU GERÇEKLEŞTİREBİLİRSİNİZ. KURULUM GERÇEKLEŞTRİKTEN SONRA TERMİNALE **jupyter notebook** YAZARAK AÇABİLİRSİNİZ. DOKÜMANIN DEVAMINI OKUMANIZA GEREK YOK.
+>  <span class="emoji">🔉 </span> NOT: EĞER BİLGİSAYARINIZDA PYTHON 2.7 SÜRÜMÜNÜN ÜSTÜ VE PİP KURULU İSE SADECE  **pip install jupyterlab** KOMUTU İLE KURULUMU GERÇEKLEŞTİREBİLİRSİNİZ. KURULUM GERÇEKLEŞTRİKTEN SONRA TERMİNALE **jupyter notebook** YAZARAK AÇABİLİRSİNİZ. DOKÜMANIN DEVAMINI OKUMANIZA GEREK YOK!
 
 > <span class="emoji">✔️</span> NOT2: Jupyter notebook programını açmak için terminale küçük harf büyük harf farketmeksizin istediğiniz gibi JuPyTER NOTebook yazabilirsiniz.
 
