@@ -6,7 +6,7 @@
 
 ## Avantajları
 
-- Bir çok paket yükleyebilir ve paketleri kullanıcı ve sürüm bazında kullanabilirsiniz.   Veri bilimcileri genellikle birçok paketin birden çok sürümünü kullanır ve bu farklı sürümleri ayırmak için birden çok ortam kullanır. Anaconda ile kolay bir şekilde ayırabilirsiniz.
+- Bir çok paket yükleyebilir, paketleri kullanıcı ve sürüm bazında kullanabilirsiniz.   Veri bilimcileri genellikle birçok paketin birden çok sürümünü kullanır ve bu farklı sürümleri ayırmak için birden çok ortam kullanır. Anaconda ile kolay bir şekilde ayırabilirsiniz.
 - Terminal ekranına gerek kalmadan Anaconda üzerinden paket yükleyebilir, güncelleyebilirsiniz.
 - pip kullanırken diğer paketlerle uyumluluğu göz önünde bulundurarak, doğru paketlerin kurulmasında karşılaşılan problemleri giderir.
 - Anaconda ile birlikte bilgisayarımıza Jupyter Notebook, Vs Code,Spyter gibi programların kurulumu gerçekleşecektir.
