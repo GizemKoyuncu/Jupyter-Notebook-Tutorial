@@ -9,3 +9,5 @@ Jupyter Notebook'a dair öğrendiğim her şey.
 3. [Anaconda Nedir, Neden Kurulmalı?](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/AnacondaNedir.md)
 
 4. [IPython Sihirli İfadeler](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/IPythonMagics.ipynb)
+
+5. [Widgets](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/Widgets.ipynb)
