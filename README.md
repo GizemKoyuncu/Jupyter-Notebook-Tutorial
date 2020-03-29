@@ -13,3 +13,5 @@ Jupyter Notebook'a dair öğrendiğim her şey.
 5. [Widgets](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/Widgets.ipynb)
 
 6. [Documents](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/Documents.ipynb)
+
+7. [JupyterHub](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/JupyterHub.ipynb)
