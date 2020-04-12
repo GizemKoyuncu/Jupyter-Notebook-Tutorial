@@ -1,6 +1,6 @@
 # Jupyter-Notebook-Tutorial
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) 
 
 
 Jupyter Notebook'a dair öğrendiğim her şey.
@@ -19,3 +19,7 @@ Jupyter Notebook'a dair öğrendiğim her şey.
 6. [Documents](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/Documents.ipynb)
 
 7. [JupyterHub](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/JupyterHub.ipynb)
+
+8. [JupyterHub Tutorial](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/JupyterHubTutorial.ipynb)
+
+9. [The Littlest JupyterHub Tutorial](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/LittlestJupyterHubTutorial.ipynb)
