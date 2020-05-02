@@ -23,3 +23,5 @@ Jupyter Notebook'a dair öğrendiğim her şey.
 8. [JupyterHub Tutorial](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/JupyterHubTutorial.ipynb)
 
 9. [The Littlest JupyterHub Tutorial](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/LittlestJupyterHubTutorial.ipynb)
+
+10. [Kernels](https://github.com/GizemKoyuncu/Jupyter-Notebook-Tutorial/blob/master/Kernels.ipynb)
